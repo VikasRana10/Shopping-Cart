@@ -32,7 +32,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/your-username/react-shopping-website.git
+   git clone https://github.com/VikasRana10/Shopping-Cart.git
    ```
 
 2. **Navigate to the project folder**:
